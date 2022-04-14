@@ -1,7 +1,7 @@
 2048 GAME
 ==========
 
-[Play it here](https://2048.netlify.app/)
+[Play it here](https://clone-2048.netlify.app/)
 
 This is a clone of [2048](http://gabrielecirulli.github.io/2048/) implemented using React. 
 
